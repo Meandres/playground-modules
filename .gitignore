@@ -1,0 +1,13 @@
+linux*
+fs/chroot/
+fs/mnt/
+fs/create-image.sh
+fs/stretch*
+vm.log
+*.ko
+*.mod
+*.mod.*
+*.o
+modules.order
+Module.symvers
+.*.cmd
